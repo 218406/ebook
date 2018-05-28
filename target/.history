@@ -1,0 +1,6 @@
+compile
+run
+compile
+heroku login
+playUpdateSecret
+exit
